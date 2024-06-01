@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "title": "MacBook Pro 1",
+      "price": 1741223,
+      "description": "duoc cua no",
+      "id": 2
+    },
+    {
+      "title": "MacBook Pro 1",
+      "price": 1741223,
+      "description": "duoc cua no",
+      "id": 8
+    },
+    {
+      "title": "MacBook Pro 1",
+      "price": 1841223,
+      "description": "duoc cua no",
+      "id": 9
+    },
+    {
+      "title": "truong 1",
+      "price": 123456789,
+      "description": "hay ho",
+      "id": 10
+    },
+    {
+      "title": "truong123",
+      "price": 123456,
+      "description": "XỊn Xò con bò",
+      "id": 11
+    },
+    {
+      "title": "truonghayho1",
+      "price": 1234567,
+      "description": "xin qua",
+      "id": 12
+    },
+    {
+      "title": "truong hay ho",
+      "price": 2106,
+      "description": "xin",
+      "id": 13
+    },
+    {
+      "title": "tyuiop[121515",
+      "price": 20155121,
+      "description": "51151",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "email": "truongha21062004@gmail.com",
+      "password": "$2a$10$b8q7QdV1JCXXhSMIUDmVZer.jSSDSB5FFWSuVwWkBeWc/O8DRxawe",
+      "id": 1
+    },
+    {
+      "email": "truong21062004@gmail.com",
+      "password": "$2a$10$zYgNqC5sB1uf5mDMeLEDPeSK8In6Gr3RMCyXelTKD2UA4Nujf6hw6",
+      "id": 2
+    },
+    {
+      "email": "truong2221062004@gmail.com",
+      "password": "$2a$10$03O1yoJ83W16HqLMxSR82eizSkiPlkWwMOW7Vx7IWJGaaARm4Ke76",
+      "id": 3
+    },
+    {
+      "email": "a1@gmail.com",
+      "password": "$2a$10$X.jSnVIVpWPjOcsqa9D3au3fxrkeyewStq2wVuz/7nhA.RrQ8waLK",
+      "id": 4
+    },
+    {
+      "email": "a2@gmail.com",
+      "password": "$2a$10$I0tyjVGznQ80/dmheFNLSeHogXrKMA9jYb2w2fciqhYUD9uRJFjKO",
+      "id": 5
+    }
+  ]
+}

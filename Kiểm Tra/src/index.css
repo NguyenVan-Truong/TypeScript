@@ -1,0 +1,42 @@
+.a1 {
+	background-color: #333; /* Màu nền của header */
+	padding: 10px 0; /* Khoảng cách giữa các nội dung trong header */
+  }
+  
+  .a1 .a2 {
+	display: inline; /* Hiển thị các mục li cùng một hàng */
+  }
+  
+  .a1 .a2:not(:last-child) {
+	margin-right: 20px; /* Khoảng cách giữa các mục li */
+  }
+  
+  .a1 .a3 {
+	color: white; /* Màu chữ của các liên kết */
+	text-decoration: none; /* Loại bỏ gạch chân của liên kết */
+  }
+  
+  .a1 .a3:hover {
+	text-decoration: underline; /* Gạch chân khi di chuột qua liên kết */
+  }
+  
+
+table {
+	text-align: center;
+}
+
+form {
+	padding: 24px;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	margin: 30px auto;
+	box-shadow: 0 0 12px rgba(0, 0, 0, 0.7);
+	width: 600px;
+	max-width: 100%;
+	.form-group{
+		margin-bottom: 24px;
+	}
+	button{
+		width: 100%;
+	}
+}
